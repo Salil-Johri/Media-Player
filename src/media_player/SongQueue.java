@@ -12,7 +12,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author salil
+ * @author Salil
  */
 public class SongQueue {
     private long numSongs;

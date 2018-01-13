@@ -7,7 +7,7 @@ package media_player;
 
 /**
  *
- * @author rsweet
+ * @author Connor
  */
 public class Runner extends Thread {
 

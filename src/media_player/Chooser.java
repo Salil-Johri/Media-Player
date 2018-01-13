@@ -12,7 +12,7 @@ import javax.swing.filechooser.FileSystemView;
 
 /**
  *
- * @author rsweet
+ * @author Connor
  */
 public class Chooser {
 

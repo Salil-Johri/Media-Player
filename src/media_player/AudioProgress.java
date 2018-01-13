@@ -11,7 +11,7 @@ import javax.swing.JProgressBar;
 
 /**
  *
- * @author rsweet
+ * @author Connor
  */
 public class AudioProgress extends JProgressBar implements MouseListener{
 
